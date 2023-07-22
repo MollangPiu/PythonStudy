@@ -16,3 +16,5 @@ print(type(testBoolean))
 print(testBoolean)
 
 print('test 추가')
+print('----------------')
+print('second')
