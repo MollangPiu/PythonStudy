@@ -16,5 +16,9 @@ print(type(testBoolean))
 print(testBoolean)
 
 
+
 print('error 날 부분')
 print('tt')
+print('test 추가')
+print('----------------')
+print('second')
