@@ -27,3 +27,15 @@ print('=======================')
 tuple = (3, 4, 5, 6)
 print(type(tuple))
 print(tuple)
+
+print('==============================')
+dict = {
+    'a':'apple',
+    'b':'banana',
+    'c':'cocoa',
+    'd':'dango'
+}
+print(type(dict))
+print(dict)
+dict['d'] = 'doroma'
+print(dict)
